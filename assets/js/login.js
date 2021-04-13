@@ -55,7 +55,7 @@ $(function() {
                     // 把token值存到本地存储中
                 localStorage.setItem('token', res.token)
                     // 自动跳转到后台主页
-                location.href = 'index/html'
+                location.href = 'index.html'
             }
         })
     })
