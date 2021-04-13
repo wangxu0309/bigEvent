@@ -1,0 +1,24 @@
+.layui-footer {
+    text-align: center;
+}
+
+.iconfont {
+    margin-right: 10px;
+}
+
+.layui-icon {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+
+/* 去掉多余一个滚动条 */
+
+.layui-body {
+    overflow: hidden;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+}
