@@ -1,0 +1,16 @@
+body,
+html {
+    padding: 0;
+    margin: 0;
+    background-color: #dddddd;
+    padding: 15px;
+}
+
+#btn_add {
+    float: right;
+    margin-top: 6px;
+}
+
+.layui-form {
+    width: 400px;
+}
